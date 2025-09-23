@@ -28,18 +28,17 @@ This project leverages machine learning techniques to predict flight delays base
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 📊 Datasets & Files
-1.airlines.csv – https://drive.google.com/file/d/1_RExCoYkqZN9L5fPWXNiIrr96B1XJk5l/view?usp=sharing
 
-2.airports.csv – https://drive.google.com/file/d/1mXkwTP8ETNCZ4zGZB5y9x9N57qgih4D7/view?usp=sharing
+1.flights.csv – https://drive.google.com/file/d/1EECrTKunnaA4yH_piCpWlhqMbvuvcCDC/view?usp=sharing
 
-3.flights.csv – https://drive.google.com/file/d/1EECrTKunnaA4yH_piCpWlhqMbvuvcCDC/view?usp=sharing
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Additional Files:
+## Sample Outputs
 
-app.py → Streamlit app for predictions - https://drive.google.com/file/d/1sQcDNhoV7APxkwQbGvZEOA1DFjtBzAX3/view?usp=sharing
+<img width="710" height="548" alt="image" src="https://github.com/user-attachments/assets/ce50dd7e-b9f1-49c6-903d-25b42a481bbd" />
 
-model.pkl → Saved machine learning model - https://drive.google.com/file/d/1GbH3HxfFDumYRt6e8dd-FOj_GjTuuKZQ/view?usp=sharing
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Sample Outputs
-Flight delay outputs
-Outcome / Use Case: Provides actionable insights for airlines and passengers to anticipate flight delays. Also showcases skills in AI, business analytics, and user-facing dashboard development
+## Outcome / Use Case: 
+
+Provides actionable insights for airlines and passengers to anticipate flight delays. Also showcases skills in AI, business analytics, and user-facing dashboard development
